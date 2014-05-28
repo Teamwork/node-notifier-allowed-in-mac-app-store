@@ -1,7 +1,7 @@
 {
-  "name": "node-notifier",
+  "name": "node-notifier-allowed-in-mac-app-store",
   "version": "3.0.0-1",
-  "description": "A Node.js module for sending notifications on mac, windows and linux",
+  "description": "A Node.js module for sending notifications on mac, windows and linux, which will be allowed into Mac App Store",
   "main": "index.js",
   "directories": {
     "example": "example"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha -R spec"
   },
-  "repository": "git@github.com:mikaelbr/node-notifier.git",
+  "repository": "git@github.com:teamwork/node-notifier-allowed-in-mac-app-store.git",
   "keywords": [
     "notification center",
     "mac os x 10.8",
@@ -18,7 +18,7 @@
     "notify-send",
     "growl"
   ],
-  "author": "Mikael Brevik",
+  "author": "Adam Lynch <adam@teamwork.com>",
   "license": "MIT",
   "devDependencies": {
     "mocha": "~1.7.4",
