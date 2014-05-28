@@ -19,8 +19,8 @@ See [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier).
 [npm-url]: https://npmjs.org/package/node-notifier-allowed-in-mac-app-store
 [npm-image]: https://badge.fury.io/js/node-notifier-allowed-in-mac-app-store.png
 
-[travis-url]: http://travis-ci.org/mikaelbr/node-notifier-allowed-in-mac-app-store
-[travis-image]: https://secure.travis-ci.org/mikaelbr/node-notifier-allowed-in-mac-app-store.png?branch=master
+[travis-url]: http://travis-ci.org/teamwork/node-notifier-allowed-in-mac-app-store
+[travis-image]: https://secure.travis-ci.org/teamwork/node-notifier-allowed-in-mac-app-store.png?branch=master
 
-[depstat-url]: https://david-dm.org/mikaelbr/node-notifier-allowed-in-mac-app-store
-[depstat-image]: https://david-dm.org/mikaelbr/node-notifier-allowed-in-mac-app-store.png
+[depstat-url]: https://david-dm.org/teamwork/node-notifier-allowed-in-mac-app-store
+[depstat-image]: https://david-dm.org/teamwork/node-notifier-allowed-in-mac-app-store.png
