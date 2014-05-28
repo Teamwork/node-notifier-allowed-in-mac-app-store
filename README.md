@@ -1,7 +1,7 @@
 # node-notifier-allowed-in-mac-app-store [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][depstat-image]][depstat-url]
 
 A node module for sending notification using node. Uses terminal-notifier on mac,
-notify-send for Linux and growl for others. This is just a fork from [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier)@3.0.0 except with [alloy/terminal-notifier](alloy/terminal-notifier)@1.5.2 instead of 1.6.0.
+notify-send for Linux and growl for others. This is just a fork from [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier)@3.0.0 except with [alloy/terminal-notifier](alloy/terminal-notifier)@1.5.0 instead of 1.6.0.
 
 
 ## Install
