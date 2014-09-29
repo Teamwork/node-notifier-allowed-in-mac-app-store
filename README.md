@@ -12,6 +12,9 @@ $ npm install node-notifier-allowed-in-mac-app-store
 ## Standard Usage
 See [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier).
 
+## Don't use with node-webkit
+We originally created this for use with node-webkit. You should now use node-webkit's built-in notifications (at least for Mac) instead. See https://github.com/rogerwang/node-webkit/issues/27#issuecomment-46265482 for more info.
+
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
